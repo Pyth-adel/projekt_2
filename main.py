@@ -1,8 +1,8 @@
 """
 projekt_2.py: druhý projekt do Engeto Online Python Akademie
 
-author: Tvé jméno
-email: tvůj@email.cz
+author: Adéla Bestová
+email: adelka.bestova@seznam.cz
 """
 
 import random
